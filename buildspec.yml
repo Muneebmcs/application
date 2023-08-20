@@ -18,5 +18,3 @@ artifacts:
         - index.html
         - appspec.yml
     discard-paths: yes
-
-            
